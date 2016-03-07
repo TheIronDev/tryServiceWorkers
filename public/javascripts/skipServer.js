@@ -1,6 +1,6 @@
 
 if ('serviceWorker' in navigator) {
-	navigator.serviceWorker.register('/imageReplace.js', {
+	navigator.serviceWorker.register('/skipServer.js', {
 		scope: '/'
 	}).then(function(reg) {
 		console.log('Yey!', reg);
