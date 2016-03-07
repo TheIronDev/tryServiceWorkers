@@ -12,4 +12,5 @@ Just playing around with service workers, poking at what type of performance gai
 
 ## Helpful Resources:
 
-(ServiceWorkers Explained)[https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md]
+* [Service Workers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
+* [MDN Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
